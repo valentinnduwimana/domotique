@@ -1,0 +1,1 @@
+web: gunicorn gestion_lampe_web.wsgi
